@@ -1,6 +1,6 @@
 # Python Placement Preparation — Day 3
 Name: Telugu Shivani 
-Date:28/10/2026  
+Date:29/10/2026  
 Day: 3 — HTTP & FastAPI Basics
 
 ## 1. Coding Problem: Build a Validated FastAPI Items API
